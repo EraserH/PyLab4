@@ -72,5 +72,5 @@ plt.show()'''
 plt.ylabel('y')
 plt.xlabel('x')
 plt.title('time by number of processes')
-plt.plot([a, b, c, d, e, f, g, h], color='green')
+plt.plot([0, a, b, c, d, e, f, g, h], color='green')
 plt.show()
